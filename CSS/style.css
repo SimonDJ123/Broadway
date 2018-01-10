@@ -8,12 +8,19 @@ h1 {
   color: white;
 }
 .title-banner {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 .btn-nav {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+.mid-banner {
+font-family: Helvetica;
+font-size: 23px;
+font-weight: bold;
+color: white;
+background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 .Footer {
   text-align: left;
